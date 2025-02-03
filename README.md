@@ -16,7 +16,7 @@ A Python-based information gathering tool with a graphical user interface (GUI) 
 
 1.  Clone the repository:
     ```bash
-    git clone [(https://www.google.com/search?q=https://github.com/Tillu6/your-repo-name)](https://github.com/Tillu6/gui-web-information-gathering.git)  
+    git clone https://github.com/Tillu6/gui-web-information-gathering.git  
     ```
 
 2.  Navigate to the directory:
